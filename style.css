@@ -259,6 +259,12 @@ body > p:last-child {
   margin: 0;
 }
 
+footer {
+  text-align: center;
+  padding: 20px;
+  color: #666;
+}
+
 /* Медиа-запрос для мобильных устройств (экраны шириной до 768px) */
 @media (max-width: 768px) {
   /* Делаем заголовок меньше на мобильных */
